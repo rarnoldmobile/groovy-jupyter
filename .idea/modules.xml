@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/groovy-jupyter.iml" filepath="$PROJECT_DIR$/.idea/modules/groovy-jupyter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/groovy-jupyter_main.iml" filepath="$PROJECT_DIR$/.idea/modules/groovy-jupyter_main.iml" group="groovy-jupyter" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/groovy-jupyter_test.iml" filepath="$PROJECT_DIR$/.idea/modules/groovy-jupyter_test.iml" group="groovy-jupyter" />
+    </modules>
+  </component>
+</project>
